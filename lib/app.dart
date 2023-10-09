@@ -1,5 +1,4 @@
 import 'package:jaspr/html.dart';
-import 'package:jaspr/jaspr.dart';
 import 'package:temiajiboye/layout/course_contents.dart';
 
 class App extends StatelessComponent {

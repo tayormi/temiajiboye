@@ -293,10 +293,10 @@ packages:
     dependency: "direct main"
     description:
       name: jaspr
-      sha256: "0b3793436473dda5ac82ffccb13e6fccb7e04de83593f632641c846c1a2164a9"
+      sha256: b5c7200229f2a6863105856068771c01760a86455333f60dbf6dc6e66460b814
       url: "https://pub.dev"
     source: hosted
-    version: "0.9.0"
+    version: "0.9.1"
   jaspr_riverpod:
     dependency: "direct main"
     description:
