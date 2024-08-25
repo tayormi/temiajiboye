@@ -3659,7 +3659,7 @@ m=A.aO(A.a([new A.l("Meet Your Instructor",null)],j),"text-3xl md:text-4xl font-
 l=A.eF(A.cr(e,e),e,e)
 l.v(0,"alt","Temi Ajiboye")
 l.v(0,"src","/images/temi.png")
-m=A.aP(A.a([A.u(A.a([m,new A.t("img",null,"w-32 h-32 rounded-full mx-auto mb-4",null,l,null,null,null,null),A.es(A.a([new A.l("Temi Ajiboye",null)],j),"text-2xl font-bold mb-2"),A.aj(A.a([new A.l("Senior Mobile Developer & Technical Lead",null)],j),"text-gray-400 mb-4"),A.aj(A.a([new A.l("With over a decade of experience in Dart and Flutter development, John has helped thousands of students become proficient developers.",null)],j),"text-gray-300 max-w-2xl mx-auto")],j),null,"container mx-auto px-4 text-center",null)],j),null,"py-20 bg-gray-900","instructor")
+m=A.aP(A.a([A.u(A.a([m,new A.t("img",null,"w-32 h-32 rounded-full mx-auto mb-4",null,l,null,null,null,null),A.es(A.a([new A.l("Temi Ajiboye",null)],j),"text-2xl font-bold mb-2"),A.aj(A.a([new A.l("Senior Mobile Developer & Technical Lead",null)],j),"text-gray-400 mb-4"),A.aj(A.a([new A.l("With over a decade of experience in Software development, Temi has helped thousands of students become proficient developers.",null)],j),"text-gray-300 max-w-2xl mx-auto")],j),null,"container mx-auto px-4 text-center",null)],j),null,"py-20 bg-gray-900","instructor")
 l=A.aP(A.a([A.u(A.a([A.aO(A.a([new A.l("Testimonials",null)],j),u.j,null),A.u(A.a([],j),A.bu(["data-id","e42a3b37-feee-44f7-ac5f-dd2a262a23e8","data-mode","shadow","data-lazyload","false","style","display: block;"],e,e),"senja-embed","e42a3b37-feee-44f7-ac5f-dd2a262a23e8")],j),null,"container mx-auto px-4",null)],j),null,"py-20","testimonials")
 e=A.bu(["aria-labelledby","cta-heading"],e,e)
 k=A.a([],j)
