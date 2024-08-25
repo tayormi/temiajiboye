@@ -247,7 +247,7 @@ class _HomeState extends State<Home> {
               [text('Senior Mobile Developer & Technical Lead')]),
           p(classes: 'text-gray-300 max-w-2xl mx-auto', [
             text(
-                'With over a decade of experience in Dart and Flutter development, John has helped thousands of students become proficient developers.'),
+                'With over a decade of experience in Software development, Temi has helped thousands of students become proficient developers.'),
           ]),
         ]),
       ]),
