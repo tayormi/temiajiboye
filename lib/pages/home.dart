@@ -17,7 +17,7 @@ class _HomeState extends State<Home> {
   @override
   void initState() {
     super.initState();
-    _launchDate = DateTime(2024, 08, 28); // Set your launch date here
+    _launchDate = DateTime(2024, 08, 26); // Set your launch date here
     _startCountdown();
   }
 
@@ -290,8 +290,14 @@ class _HomeState extends State<Home> {
                 a(
                     classes:
                         'px-8 py-3 text-lg font-medium bg-white text-black rounded-full hover:bg-gray-200 transition-colors',
-                    href: '#', // Replace with your enrollment link
-                    [text('Enroll in the Course')]),
+                    href: 'https://www.udemy.com/course/dart-essentials-from-novice-to-proficient-developer',
+                    attributes: {
+                      'target': '_blank',
+                      'rel': 'noopener noreferrer'
+                    },
+                    [
+                      text('Enroll in the Course')
+                    ]),
               ] else ...[
                 h2(
                     id: 'cta-heading',
